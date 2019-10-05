@@ -1,4 +1,6 @@
 # express-response-and-pipe
+[![StyleCI](https://github.styleci.io/repos/212907291/shield?branch=master)](https://github.styleci.io/repos/212907291)
+
 Helper that can pipe passed file and execute callback after file piped.
 
 ### Install
